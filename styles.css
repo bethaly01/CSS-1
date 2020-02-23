@@ -1,0 +1,56 @@
+/*Body*/
+body {
+    background-image: url(https://live.staticflickr.com/4099/4744094305_718c163891_c.jpg);
+    background-size: cover;
+  }
+  /*header*/
+  .navbar {
+    background-color: #934149;
+  }
+  
+  .navbar-brand {
+    font-size: 33px;
+  }
+  
+  form {
+    text-align: center;
+    color: white;
+    max-width: 600px;
+  }
+  
+  .betha-button {
+    margin-top: 22px;
+  }
+  /*footer*/
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    color: rgb(221, 133, 133);
+    background-image: linear-gradient(to bottom,
+  rgba(0,0,0,0.15), rgba(0,0,0,0.75));
+  }
+  
+  #footerBetha {
+    color: wheat;
+  }
+  /*container*/
+  
+  .card-img-top {
+    height: 380px;
+  }
+  
+  .card-body {
+    padding-bottom: 3px;
+  }
+  
+  .btn {
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .card {
+    opacity: .85;
+    border: 3px solid #934149;
+  }
